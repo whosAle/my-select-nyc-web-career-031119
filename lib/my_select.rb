@@ -1,4 +1,4 @@
-def my_collect(collection)
+def my_select(collection)
   if block_given?
     new_array = []
     i = 0
